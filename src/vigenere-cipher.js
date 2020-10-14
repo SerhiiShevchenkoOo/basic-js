@@ -1,5 +1,5 @@
-const CustomError = require("../extensions/custom-error");
 
+<<<<<<< HEAD
 class VigenereCipheringMachine {
   encrypt() {
     throw new CustomError('Not implemented');
@@ -12,3 +12,5 @@ class VigenereCipheringMachine {
 }
 
 module.exports = VigenereCipheringMachine;
+=======
+>>>>>>> 820aa615f065fd9cd263b7c67fdff0119a1abb0d
